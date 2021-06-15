@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\mayan\Documents\NetBeansProjects\WarehouseManagementSystem\dist\WarehouseManagementSystem.jar</jar>
+  <outfile>C:\Users\mayan\Desktop\wms.exe</outfile>
+  <errTitle>Please Install Java First</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl>www.google.com</supportUrl>
+  <stayAlive>true</stayAlive>
+  <restartOnCrash>true</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\mayan\Documents\NetBeansProjects\WarehouseManagementSystem\hnet.com-image.ico</icon>
+  <singleInstance>
+    <mutexName>WarehouseManagementSystem</mutexName>
+    <windowTitle></windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion>1.9.0</maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>0.0.1.0</fileVersion>
+    <txtFileVersion>0.0.1.0</txtFileVersion>
+    <fileDescription>Warehouse Management System</fileDescription>
+    <copyright>NIL</copyright>
+    <productVersion>0.0.1.0</productVersion>
+    <txtProductVersion>0.0.1.0</txtProductVersion>
+    <productName>Warehouse Management System</productName>
+    <companyName></companyName>
+    <internalName>WMS</internalName>
+    <originalFilename>WMS.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
